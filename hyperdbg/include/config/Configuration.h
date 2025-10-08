@@ -69,6 +69,7 @@
  */
 #define EnableInstantEventMechanism TRUE
 
+
 /**
  * @brief Activates the user-mode debugger
  */
